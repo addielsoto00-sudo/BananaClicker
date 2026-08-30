@@ -1,7 +1,7 @@
 # 🍌 Banana Clicker
 
 <p align="center">
-  <img src="game.png" alt="Banana Clicker" width="850">
+  <img src="xd.png" alt="Banana Clicker" width="850">
 </p>
 
 <h1 align="center">BANANA CLICKER</h1>
