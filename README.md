@@ -1,5 +1,3 @@
-# 🍌 Banana Clicker
-
 <p align="center">
   <img src="xd.png" alt="Banana Clicker" width="850">
 </p>
