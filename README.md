@@ -12,7 +12,7 @@
   🍌 Click • ⚡ Evoluciona • 🌎 Compite • 👑 Llega al Boss
 <details>
   <summary>▶️ Juegalo Aqui</summary>
-  banana-click.netlify.app
+ [🍌 Jugar Banana Clicker](https://banana-click.netlify.app)
 </details>
 
 </p>
