@@ -10,6 +10,11 @@
 
 <p align="center">
   🍌 Click • ⚡ Evoluciona • 🌎 Compite • 👑 Llega al Boss
+<details>
+  <summary>▶️ Juegalo Aqui</summary>
+  banana-click.netlify.app
+</details>
+
 </p>
 
 ---
