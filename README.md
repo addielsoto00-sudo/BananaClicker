@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  🍌 Click • ⚡ Evoluciona • 🌎 Compite • 👑 Llega al Boss
-<details>
+  🍌 Click • ⚡ Evoluciona • 🌎 Compite • 👑 Llega al Boss <details>
   <summary>▶️ Juegalo Aqui</summary>
  [🍌 Jugar Banana Clicker](https://banana-click.netlify.app)
 </details>
+
 
 </p>
 
