@@ -2,8 +2,6 @@
   <img src="xd.png" alt="Banana Clicker" width="850">
 </p>
 
-<h1 align="center">BANANA CLICKER</h1>
-
 <p align="center">
   <strong>Un click.</strong><br>
   <strong>Una banana.</strong><br>
