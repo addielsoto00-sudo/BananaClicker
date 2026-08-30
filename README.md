@@ -476,7 +476,7 @@ Y, obviamente...
 
  <details>
   <summary>▶️ Juegalo Aqui</summary>
- [🍌 Jugar Banana Clicker](https://banana-click.netlify.app)
+ 🍌 Jugar Banana Clicker(https://banana-click.netlify.app)
 </details>
 
 <strong>How many clicks can humanity make?</strong>
