@@ -9,10 +9,7 @@
 </p>
 
 <p align="center">
-  🍌 Click • ⚡ Evoluciona • 🌎 Compite • 👑 Llega al Boss <details>
-  <summary>▶️ Juegalo Aqui</summary>
- [🍌 Jugar Banana Clicker](https://banana-click.netlify.app)
-</details>
+  🍌 Click • ⚡ Evoluciona • 🌎 Compite • 👑 Llega al Boss
 
 
 </p>
@@ -476,6 +473,11 @@ Y, obviamente...
 <p align="center">
 
 ## 🍌 KEEP CLICKING 🍌
+
+ <details>
+  <summary>▶️ Juegalo Aqui</summary>
+ [🍌 Jugar Banana Clicker](https://banana-click.netlify.app)
+</details>
 
 <strong>How many clicks can humanity make?</strong>
 
